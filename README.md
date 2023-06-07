@@ -1,31 +1,52 @@
-Hi 👋 My name is Tualin14
-=========================
+# Hi 👋 My name is Tualin14
 
-* ✉️  You can contact me at [t@dzaaaaaa.com](mailto:t@dzaaaaaa.com)
+- ✉️  You can contact me at [t@dzaaaaaa.com](mailto:t@dzaaaaaa.com)
 
 ### Skills
 
+#### Python
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg" width="36" height="36" alt="IPFS" /></a>
-<a href="https://ethereum.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-</p>
+![Python](https://skillicons.dev/icons?i=py,pytorch,tensorflow,flask)
 
+#### Rust
 
-### Socials
+![Rust](https://skillicons.dev/icons?i=rust,actix,wasm)
 
-<p align="left"> <a href="https://www.github.com/Tualin14" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+#### C/C++/C#
+
+![C/C++/C#](https://skillicons.dev/icons?i=c,cpp,cs,dotnet)
+
+#### Frontend
+
+![Frontend](https://skillicons.dev/icons?i=ts,nextjs,nodejs,react,tailwind,graphql,fastapi,js)
+
+#### Web3
+
+![Web3](https://skillicons.dev/icons?i=solidity,ipfs)
+
+#### Flutter
+
+![Flutter](https://skillicons.dev/icons?i=flutter,dart)
+
+#### Git
+
+![Git](https://skillicons.dev/icons?i=git,github,gitlab)
+
+#### Database
+
+![Database](https://skillicons.dev/icons?i=postgres,sqlite,mysql)
+
+#### IDE
+
+![IDE](https://skillicons.dev/icons?i=idea,vscode,visualstudio,androidstudio,vim)
+
+#### Used
+
+![Used](https://skillicons.dev/icons?i=cloudflare,workers,vercel,azure,heroku)
+
+#### Other
+
+![Other](https://skillicons.dev/icons?i=linux,md,latex,matlab,powershell,figma)
 
 ### Badges
 
